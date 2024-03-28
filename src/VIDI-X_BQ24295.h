@@ -1,5 +1,5 @@
 /**
- * # BQ24295 v.1.1 (Updated Version)
+ * # VIDI-X_BQ24295 v.1.1 (Updated Version)
  *
  * This library was originally developed by daumemo.com 
  * (https://github.com/daumemo/Arduino_BQ24295) and is based on the work with 

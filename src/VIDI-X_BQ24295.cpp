@@ -1,5 +1,5 @@
 /**
- * # BQ24295 v.1.1 (Updated Version)
+ * # VIDI-X_BQ24295 v.1.1 (Updated Version)
  *
  * This library was originally developed by daumemo.com 
  * (https://github.com/daumemo/Arduino_BQ24295) and is based on the work with 
@@ -56,7 +56,7 @@
  * promote innovation and knowledge sharing within the community.*
  */
 
-#include "bq24295.h"
+#include "VIDI-X_BQ24295.h"
 #include <Wire.h>
 
 #define BQ24295_I2C_ADD 0x6B

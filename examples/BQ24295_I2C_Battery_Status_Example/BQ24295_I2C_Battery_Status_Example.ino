@@ -1,5 +1,4 @@
-#include <Wire.h>
-#include "bq24295.h"
+#include "VIDI-X_BQ24295.h"
 
 // Defining I2C pins for the VIDI X microcomputer
 // It may be necessary to adjust the I2C pins depending on your ESP32 module
