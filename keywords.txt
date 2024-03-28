@@ -1,0 +1,87 @@
+##################################################
+# Syntax Coloring Map For VIDI-X_BQ24295
+##################################################
+
+##################################################
+# Datatypes (KEYWORD1)
+##################################################
+
+BQ24295_IC	KEYWORD1
+
+##################################################
+# Methods and Functions (KEYWORD2)
+##################################################
+
+BQ24295_IC	KEYWORD2
+getRegister	KEYWORD2
+setRegister	KEYWORD2
+getPartNumber	KEYWORD2
+getRevisionNumber	KEYWORD2
+getFaults	KEYWORD2
+getStatus	KEYWORD2
+forceInputSourceDetect	KEYWORD2
+setSlowSafetyTimer	KEYWORD2
+disableBatfet	KEYWORD2
+setInterrupts	KEYWORD2
+setBoostVoltage	KEYWORD2
+setBHot	KEYWORD2
+setThermalRegulationThreshold	KEYWORD2
+enableChargeTermination	KEYWORD2
+setI2cWatchdogTimer	KEYWORD2
+enableSafetyChargingTimer	KEYWORD2
+setFastChargeTimer	KEYWORD2
+setChargeVoltageLimit	KEYWORD2
+setBatteryLowVoltage	KEYWORD2
+setBattRechargeThreshold	KEYWORD2
+setPreChargeCurrent	KEYWORD2
+setTerminationCurrent	KEYWORD2
+setFastChargeCurrent	KEYWORD2
+setBCold	KEYWORD2
+force20pctCharge	KEYWORD2
+resetRegisters	KEYWORD2
+resetI2cTimer	KEYWORD2
+enableOTG	KEYWORD2
+enableCharging	KEYWORD2
+setMinimumSystemVoltage	KEYWORD2
+enableLowPowerMode	KEYWORD2
+setInputVoltageLimit	KEYWORD2
+setInputCurrentLimit	KEYWORD2
+getChargeVoltageLimit	KEYWORD2
+getBatteryLowVoltage	KEYWORD2
+getChargeVoltageLimitStr	KEYWORD2
+getBatteryLowVoltageStr	KEYWORD2
+getBoostVoltageStr	KEYWORD2
+getBHotStr	KEYWORD2
+getThermalRegulationThresholdStr	KEYWORD2
+getInputCurrentLimit	KEYWORD2
+getInputCurrentLimitStr	KEYWORD2
+
+##################################################
+# Constants (LITERAL1)
+##################################################
+
+BQ24295_I2C_ADD	LITERAL1
+BQ24295_WATCHDOG_FAULT	LITERAL1
+BQ24295_OTG_FAULT	LITERAL1
+BQ24295_CHRG_FAULT_01	LITERAL1
+BQ24295_CHRG_FAULT_10	LITERAL1
+BQ24295_CHRG_FAULT_11	LITERAL1
+BQ24295_BAT_FAULT	LITERAL1
+BQ24295_NTC_FAULT_1	LITERAL1
+BQ24295_NTC_FAULT_0	LITERAL1
+BQ24295_VBUS_STAT_00	LITERAL1
+BQ24295_VBUS_STAT_01	LITERAL1
+BQ24295_VBUS_STAT_10	LITERAL1
+BQ24295_VBUS_STAT_11	LITERAL1
+BQ24295_CHRG_STAT_00	LITERAL1
+BQ24295_CHRG_STAT_01	LITERAL1
+BQ24295_CHRG_STAT_10	LITERAL1
+BQ24295_CHRG_STAT_11	LITERAL1
+BQ24295_DPM_STAT_0	LITERAL1
+BQ24295_DPM_STAT_1	LITERAL1
+BQ24295_PG_STAT_0	LITERAL1
+BQ24295_PG_STAT_1	LITERAL1
+BQ24295_THERM_STAT_0	LITERAL1
+BQ24295_THERM_STAT_1	LITERAL1
+BQ24295_VSYS_STAT_0	LITERAL1
+BQ24295_VSYS_STAT_1	LITERAL1
