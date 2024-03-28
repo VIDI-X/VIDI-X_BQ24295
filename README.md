@@ -1,0 +1,2 @@
+# VIDI-X_BQ24295
+VIDI-X_BQ24295 Arduino library
